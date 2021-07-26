@@ -1,8 +1,9 @@
-#Homework 1 ADL NTU 109 Spring
+# Intent Classification
+Use LSTM to classify texts' intent
 
 ## Download models and data
 ```shell
-# data will be downloaded as cache file, models will be downloaded as ckpt/slot/best.pt and ckpt/intent/best.pt
+# models will be downloaded as ckpt/intent/best.pt
 bash download.sh
 ```
 
